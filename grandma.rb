@@ -1,4 +1,4 @@
-require_relative 
+require_relative '../spec/spec_helper.rb'
 
 def speak-to-grandma
   
