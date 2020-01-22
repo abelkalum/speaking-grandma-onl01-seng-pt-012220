@@ -1,3 +1,4 @@
+require_relative '../grandma.rb'
 
 if you say 'LOVE YOU GRANDMA!'
   return 'I LOVE YOU TOO PUMPKIN!'
