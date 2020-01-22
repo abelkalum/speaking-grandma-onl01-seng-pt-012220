@@ -1,6 +1,6 @@
 require_relative '../spec/spec_helper.rb'
 
-def speak-to-grandma
+def speak-to-grandma (greeting phrase, response)
   
   if speak-to-grandma == 'LOVE YOU GRANDMA!'
     return 'I LOVE YOU TOO PUMPKIN!'
