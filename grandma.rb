@@ -1,4 +1,4 @@
-require_relative '..spec/grandma_spec.rb'
+require_relative '..rspec ./spec/spec_helper.rb'
 
 if you say 'LOVE YOU GRANDMA!'
   return 'I LOVE YOU TOO PUMPKIN!'
