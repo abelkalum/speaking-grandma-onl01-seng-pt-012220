@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
   elsif
     ans = 'HUH?! SPEAK UP, SONNY!'
   else
-    ans = 'I LOVE YOU TOO PUMPKIN!'
+    ans = 'NO, NOT SINCE 1938!'
   end
   return ans
 end
